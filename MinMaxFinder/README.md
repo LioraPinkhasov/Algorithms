@@ -5,9 +5,10 @@
 ## AboutTheFolder
 in this folder we can find 4 java files:
 - **Essentials**: our tool kit.
-- **FindMaxValue**: Finds Max in the array.
-- **FindMinValue**:Find Min in the array.
-- **FindMinMaxValue**: find Min & Max in the array. (two ways)
+- **FindMaxValue**: Finds Max value in the array.
+- **FindMinValue**:Find Min value in the array.
+- **FindMinMaxValue**: find Min & Max values in the array. (two ways)
+- **FirstMethodFindMaxValueBegginer**: find max value in the array (without using Essentials). 
 
 ### the functions in Essentials is:
 - **GenreteRandom:**  this function generete arrray with a random values.
