@@ -1,7 +1,7 @@
 
 public class FindMinMaxValue
 {
-	static int size=10;
+	static int size=18;
 	static int GameArr [] = new int [size];
 
 	public static void main(String[] args) 
@@ -62,7 +62,7 @@ public class FindMinMaxValue
 			MinValue = GameArr[1];
 		}
 		
-		for (int i=2;i<GameArr.length-1;i++)
+		for (int i=2;i<GameArr.length-1;i=i+2)
 			{
 			count++;
 			if (GameArr[i]<=GameArr[i+1])
@@ -113,6 +113,8 @@ public class FindMinMaxValue
 		Values[0]=MinValue;
 		Values[1]=MaxValue;
 		
+		//System.out.println(" ");
+		//System.out.println(count);
 		return Values;
 	}
 	
