@@ -5,13 +5,19 @@
 ## AboutTheFolder
 in this folder we can find 4 java files:
 - **Essentials**: our tool kit.
-- **FindMaxValue**: Finds Max value in the array.
-- **FindMinValue**:Find Min value in the array.
-- **FindMinMaxValue**: find Min & Max values in the array. (two ways)
-- **FirstMethodFindMaxValueBegginer**: find max value in the array (without using Essentials). 
+- **FirstMethodGreddyBasic**: Finds Max value in the array.
+- **FirstMethodGreddyFunctions**:Find Min value in the array.
 
 ### the functions in Essentials is:
-- **GenreteRandom:**  this function generete arrray with a random values.
+- **sum:**  this is a void function which do sum for all the even index and for the all odd indexs.
+- **BiggestSum:**  this is a boolean function which check what sum is bigger.
+- **even:**  this function print the game array.
+- **PlayerOneChoise:**  this function print the game array.
+- **PlayerTwoChoise:**  this function print the game array.
+- **GretestSum:**  this function print the game array.
+- **GenreteRandom:**  this function print the game array.
+- **DiffrentNumsInArray:**  this function print the game array.
 - **PrintGameArr:**  this function print the game array.
+- **PrintSum:**  this function print the game array.
 
 
