@@ -5,6 +5,6 @@
 @Liora Pinkhasov
 
 ## About
-this project gonna be legndary!!
-or like our little fellow said : " easy pizzy super dizzy!".
-you can read more about our project in the wiki.
+in this folder we can find 2 java files:
+- **Essentials**: our tool kit (inside this folder you can find the AssitantProblem code)
+- **AssitantProblem**: Finds Max value in the array.
